@@ -1,5 +1,5 @@
 ### Hello!
-I'm Harper (she/her), I make a lot of small things.  
+I'm editing this file. I make a lot of small things.  
 I'm currently working on...  
 - Sheila
 - Purpura
